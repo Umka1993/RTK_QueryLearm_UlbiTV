@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "55555",
+      "body": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 6,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "5456456",
+      "body": "typicode"
+    },
+    {
+      "title": "666666",
+      "body": "666666",
+      "id": 9
+    },
+    {
+      "title": "dvsdv666666",
+      "body": "dvsdv666666",
+      "id": 10
+    },
+    {
+      "title": "11111111111111111111",
+      "body": "11111111111111111111",
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
